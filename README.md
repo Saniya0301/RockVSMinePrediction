@@ -1,5 +1,9 @@
 Rock vs Mine Prediction using SONAR Data
+
+
 🎯 Project Overview
+
+
 Build a binary classification model in Python that can predict whether an underwater object, represented by SONAR signal data, is a rock or a mine. The project is based on Siddhardhan’s end-to-end machine learning walkthrough using libraries such as NumPy, Pandas, and scikit-learn 
 
 Dataset
@@ -11,8 +15,13 @@ Included in the repo as sonar_data.csv .
 
 📦 File Structure
 
+
 ├── sonar_data.csv
+
+
 ├── rock_mine_detection.ipynb
+
+
 ├── README.md
 
 Key Learnings
@@ -48,6 +57,8 @@ Mentoring and tutorial provided by Siddhardhan on YouTube
 Dataset courtesy of the UCI Machine Learning Repository
 
 TL;DR
+
+
 Problem: Classify a sonar signal as rock (R) or mine (M)
 
 Model: Logistic Regression (can compare with kNN or SVM)
